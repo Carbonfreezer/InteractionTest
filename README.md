@@ -5,7 +5,7 @@ You need to have Blender installed to get the project loaded.
 
 You will need to replace the scene with the sample scene in assets.
 
-When opening the oculus project answer the question for the input system with no. 
+When opening the oculus project answer the question for the input system with no and switch the build platform to Android.
 
 The software contains source code of the Oculus SDK
 Copyright © Meta Platform Technologies, LLC and its affiliates. All rights reserved
